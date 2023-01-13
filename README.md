@@ -31,7 +31,7 @@ If you find the toolbox useful for your research, please cite the following:
 ```
 @article{taog2023backdoorvault,
   title={{BackdoorVault}: A Toolbox for Backdoor Attacks},
-  author={Tao, Guanhong},
+  author={Tao, Guanhong and Cheng, Siyuan},
   year={2023}
 }
 ```
